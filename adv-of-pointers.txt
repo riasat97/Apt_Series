@@ -1,0 +1,16 @@
+A pointer is a variable which stores the address of another variable.
+it points to an address of a value.
+
+Pointer acts as references to different types of objects such as variables, arrays, functions, structures, etc. However, C language does not have the concept of references as in C++. 
+Therefore, in C we use the pointer as a reference.
+Pointers are the instruments of dynamic memory Management. It is helpful in allocation and de-allocation of memory during the execution of the program.
+
+To return multiple values from function using pointer.//like passing arrays/strings in function
+Pointer enables us to access variables that are declared outside the functions 
+
+Pointers enhance the execution speed of a program.
+It reduces the code length and improves the performance.
+
+Storage of strings through pointers saves memory space.
+Pointers may be used to pass on arrays, strings, functions,structures and variables as arguments of a function.
+Pointers are helpful in traversing through arrays and character strings.

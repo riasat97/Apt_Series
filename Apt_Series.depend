@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529527503 source:d:\installed\codeblocks\apt_series\main.c
+	<stdio.h>
+	<string.h>
+
